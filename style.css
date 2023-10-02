@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 *{
-    margin: 2px;
+    margin: 0px;
     padding: 0;
     font-family: 'Roboto',sans-serif;
 }
@@ -193,9 +193,16 @@ main{
 }
 footer
 {
+    background-color: yellowgreen;
     font-size: 20px;
-    padding: 30px;
+    padding: 20px;
     text-align: center;
 margin-top: 32px;
 font-weight: 400;
+}
+footer p
+{
+    font-weight: 400;
+    font-size: large;
+    padding-top: 0px;
 }
