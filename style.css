@@ -180,7 +180,7 @@ main{
     justify-content: space-between;
 }
 .product-action button{
-    width: 90px;
+    width: 80px;
     height: 35px;
     background-color: rgb(247,255,249);
     border: 0.5px solid rgb(12,131,31);
